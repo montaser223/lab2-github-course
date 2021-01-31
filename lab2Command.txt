@@ -3,7 +3,7 @@
 3-git commit -m "lab2init"
 4-git remote add origin https://github.com/montaser223/lab2-github-course.git
 5-git push -u origin master
-6-git branch dev | git branch dev.
+6-git branch dev | git branch test.
 7-git add .
   git commit -m "addFiles"
   git push origin dev
