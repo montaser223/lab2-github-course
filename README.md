@@ -12,7 +12,7 @@ pip install foobar
 
 ## Usage
 
-````python
+```python
 import foobar
 
 foobar.pluralize('word') # returns 'words'
