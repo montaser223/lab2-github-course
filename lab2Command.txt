@@ -1,0 +1,24 @@
+1-git init
+2-git add .
+3-git commit -m "lab2init"
+4-git remote add origin https://github.com/montaser223/lab2-github-course.git
+5-git push -u origin master
+6-git branch dev | git branch dev.
+7-git add .
+  git commit -m "addFiles"
+  git push origin dev
+8-Tell me how to remove them locally and remotly.
+	locally: git branch -d branchName
+	remotely: git push orign --delte branchName
+9-Send me invitation on my mail:Done
+10-git tag v1.4
+11-git push origin v1.4
+12-Tell me how to list tags locally.
+	git tag
+13-Tell me how to delete tag locally and remotely.
+	locally: git tag -d tagName
+	remotely: git push origin --delete tagName
+14-What is git rebase? Give me an example.
+	Rebasing is the process of moving or combining a sequence of commits to a new base commit.
+	Rebasing is most useful and easily visualized in the context of a feature branching workflow.
+15-pull request :Done.
