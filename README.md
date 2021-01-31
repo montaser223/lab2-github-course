@@ -30,7 +30,7 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![alt text](perils-of-rebasing-2.png)
+![alt text](git.png)
 
 ```
 
